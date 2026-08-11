@@ -65,7 +65,6 @@ BinaryScript — это экспериментальный язык програ
 · ; — завершает блок (условие, цикл)
 · & — разделитель команд в одной строке
 · # ... # — многострочные комментарии
-· // — однострочный комментарий
 · {} — строковые литералы в выражениях
 · Бинарные строки: {01001000_01100101} → He
 ```
@@ -168,7 +167,6 @@ Command Description
 · ; — terminates a block (condition, loop)
 · & — command separator on a single line
 · # ... # — multi-line comments
-· // — single-line comment
 · {} — string literals in expressions
 · Binary strings: {01001000_01100101} → He
 ```
