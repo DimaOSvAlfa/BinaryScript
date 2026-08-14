@@ -86,6 +86,17 @@ BinaryScript — это экспериментальный язык програ
 
 ---
 
+🔄 Обновления
+
+```
+до v0.30:
+•   на канале @nyan_pl
+====================
+ожидается...
+```
+
+---
+
 📜 Лицензия
 
 Проект распространяется свободно. Поддержите разработку, чтобы мы могли сделать BinaryScript ещё удобнее и мощнее!
@@ -185,6 +196,17 @@ Command Description
 
 The project is in active beta testing.
 If you would like to participate in the development, please contact @DmOS01 in Telegram.
+
+---
+
+🔄 Updates
+
+```
+up to v0.30:
+• on the @nyan_pl channel
+======================
+expected...
+```
 
 ---
 
