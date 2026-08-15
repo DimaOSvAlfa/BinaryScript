@@ -2,7 +2,7 @@ RU:
 
 BinaryScript (BS)
 
-BinaryScript — это экспериментальный язык программирования, основанный на идее полного отказа от букв в пользу чисел и бинарного кода. Язык максимально приближен к машинному представлению данных, но при этом остаётся читаемым и удобным для человека.
+BinaryScript — это язык программирования, основанный на идее полного отказа от букв в пользу чисел и бинарного кода. Язык максимально приближен к машинному представлению данных, но при этом остаётся читаемым и удобным для человека.
 
 Версия движка: 0.30
 Поддержка: Windows, Linux, macOS
@@ -115,7 +115,7 @@ EN:
 
 BinaryScript (BS)
 
-BinaryScript is an experimental programming language based on the idea of completely eliminating letters in favor of numbers and binary code. The language is as close as possible to machine data representation, while remaining readable and user-friendly.
+BinaryScript is an programming language based on the idea of completely eliminating letters in favor of numbers and binary code. The language is as close as possible to machine data representation, while remaining readable and user-friendly.
 
 Engine version: 0.30
 Support: Windows, Linux, macOS
