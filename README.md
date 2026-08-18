@@ -5,6 +5,7 @@ BinaryScript (BS)
 BinaryScript — это язык программирования, основанный на идее полного отказа от букв в пользу чисел и бинарного кода. Язык максимально приближен к машинному представлению данных, но при этом остаётся читаемым и удобным для человека.
 
 Версия движка: 0.30 {0.31_Beta}
+
 Поддержка: Windows, Linux, macOS {Android}
 
 ---
@@ -62,21 +63,21 @@ BinaryScript — это язык программирования, основа�
 🧬 Особенности синтаксиса
 
 ```
-· ; — завершает блок (условие, цикл)
-· & — разделитель команд в одной строке
-· # ... # — многострочные комментарии
-· {} — строковые литералы в выражениях
-· Бинарные строки: {01001000_01100101} → He
+• ; — завершает блок (условие, цикл)
+• & — разделитель команд в одной строке
+• # ... # — многострочные комментарии
+• {} — строковые литералы в выражениях
+• Бинарные строки: {01001000_01100101} → He
 ```
 
 ---
 
 🖥️ Поддерживаемые платформы
 
-· ✅ Linux
-· ✅ Windows
-· ✅ macOS
-{+ Android}
+• ✅ Linux
+• ✅ Windows
+• ✅ macOS
+{• Android}
 ---
 
 🚀 Участие в разработке
@@ -93,7 +94,7 @@ BinaryScript — это язык программирования, основа�
 •   на канале @nyan_pl
 ====================
 {v0.31_Beta:
-+   Поддержка Android}
+•   Поддержка Android}
 ====================
 ожидается...
 ```
@@ -178,20 +179,20 @@ Command Description
 🧬 Syntax Features
 
 ```
-· ; — terminates a block (condition, loop)
-· & — command separator on a single line
-· # ... # — multi-line comments
-· {} — string literals in expressions
-· Binary strings: {01001000_01100101} → He
+• ; — terminates a block (condition, loop)
+• & — command separator on a single line
+• # ... # — multi-line comments
+• {} — string literals in expressions
+• Binary strings: {01001000_01100101} → He
 ```
 
 ---
 
 🖥️ Supported Platforms
 
-· ✅ Linux
-· ✅ Windows
-· ✅ macOS
+• ✅ Linux
+• ✅ Windows
+• ✅ macOS
 
 ---
 
