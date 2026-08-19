@@ -77,7 +77,8 @@ BinaryScript — это язык программирования, основа�
 • ✅ Linux
 • ✅ Windows
 • ✅ macOS
-{+ Android}
+{• Android}
+
 ---
 
 🚀 Участие в разработке
