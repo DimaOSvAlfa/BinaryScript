@@ -127,6 +127,7 @@ BinaryScript (BS)
 BinaryScript is an programming language based on the idea of completely eliminating letters in favor of numbers and binary code. The language is as close as possible to machine data representation, while remaining readable and user-friendly.
 
 Engine version: 0.30 {0.32_Beta}
+
 Support: Windows, Linux, macOS {Android}
 
 ---
