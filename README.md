@@ -4,7 +4,7 @@ BinaryScript (BS)
 
 BinaryScript — это язык программирования, основанный на идее полного отказа от букв в пользу чисел и бинарного кода. Язык максимально приближен к машинному представлению данных, но при этом остаётся читаемым и удобным для человека.
 
-Версия движка: 0.30 {0.31_Beta}
+Версия движка: 0.30 {0.32_Beta}
 
 Поддержка: Windows, Linux, macOS {Android}
 
@@ -97,6 +97,10 @@ BinaryScript — это язык программирования, основа�
 {v0.31_Beta:
 •   Поддержка Android}
 ====================
+{v0.32_Beta:
++   Все движки обновлены
++   UI Android Engine обновлён}
+====================
 ожидается...
 ```
 
@@ -122,8 +126,8 @@ BinaryScript (BS)
 
 BinaryScript is an programming language based on the idea of completely eliminating letters in favor of numbers and binary code. The language is as close as possible to machine data representation, while remaining readable and user-friendly.
 
-Engine version: 0.30
-Support: Windows, Linux, macOS
+Engine version: 0.30 {0.32_Beta}
+Support: Windows, Linux, macOS {Android}
 
 ---
 
@@ -194,6 +198,7 @@ Command Description
 • ✅ Linux
 • ✅ Windows
 • ✅ macOS
+{+ Android}
 
 ---
 
@@ -208,9 +213,16 @@ If you would like to participate in the development, please contact @DmOS01 in T
 
 ```
 up to v0.30:
-• on the @nyan_pl channel
-======================
-expected...
+•   on the @nyan_pl channel
+====================
+{v0.31_Beta:
+•   Android support}
+====================
+{v0.32_Beta:
++   All engines updated
++   UI Android Engine updated}
+====================
+coming soon...
 ```
 
 ---
